@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valera</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=14F7FF&center=true&vCenter=true&width=435&lines=Full-stack+Dev;NestJS+%7C+React+%7C+C%23+%7C+TypeScript;Building+secure+and+modern+apps;Learning+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=14F7FF&center=true&vCenter=true&width=600&lines=Backend+%7C+Frontend+%7C+Dev;Java+%7C+.NET+%7C+PostgreSQL;React+%7C+TypeScript+%7C+NestJS;Building+secure+and+modern+apps;Learning+every+day" alt="Typing SVG" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nek00oo&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nek00oo&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nek00oo&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nek00oo&layout=compact&theme=tokyonight&hide_border=true" width="500" />
 </div>
 
 ---
