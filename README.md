@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nek00oo&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nek00oo&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nek00oo&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nek00oo&layout=compact&theme=tokyonight&hide_border=true" height="200" />
 </div>
 
 ---
