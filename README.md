@@ -18,9 +18,14 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Skill-Bridge**](https://github.com/nek00oo/SkillBridge) | 🧩 This is a website with authentication system with JWT & secure cookies, built using NestJS and PostgreSQL. | NestJS, Prisma, JWT, PostgreSQL, HBS |
+| [**Financial Simulation**](https://github.com/nek00oo/FinanceBusinessSimulationModeling). | 📈 C#-based simulation of company financial flows, including modeling of customer arrivals, revenue variability, employee costs, and probability of order failure. | C#, LINQ, OxyPlot |
 | [**Chirper App**](https://github.com/nek00oo/Chirper) | 📱 Android app following MVI and Сlean architecture to display posts (like a Twitter). | Kotlin, Koin, MVI, Coroutines |
-| [**Parser and Machine Learning**](https://github.com/nek00oo/IS_ML) | 🔍 Data scraping & model training to classify tanks from tanks.gg, optimized for performance. | Python, Selenium, scikit-learn |
+| [**Skill-Bridge**](https://github.com/nek00oo/SkillBridge) | 🧩 This is a website with authentication system with JWT & secure cookies, built using NestJS and PostgreSQL. | NestJS, Prisma, RESTful API, JWT, PostgreSQL, HBS, LightHouse |
+| [**Api Service**](https://github.com/nek00oo/Java-tech) | 🐾 Microservice for managing pet ownership records with secure authentication, role-based access control, and asynchronous communication via Kafka. Built with Spring Boot and PostgreSQL. | Java, Spring Boot, Spring Security, Kafka, RESTful API |
+| [**Configurator && Command Parser**](https://github.com/nek00oo/OOP-Csharp_ITMO)| ⚙️ Course project featuring advanced OOP and patterns: builder-based configurator, extendable validation with Chain of Responsibility, adapter-based messaging, and a powerful CLI parser using Iterator, Command, and Visitor patterns. | C#, OOP, Design Patterns |
+| [**DailyMail**](https://github.com/nek00oo/DailyMail) | 📰 A modern news feed application built with React and TypeScript. Includes filtering, routing, detailed views. Uses Redux Toolkit for state management and React Router for navigation. | React, TypeScript, Redux Toolkit, Axios, React Router |
+| [**MortalCombat**](https://github.com/nek00oo/MortalCombat) | 🕹️ A browser-based fighting game inspired by Mortal Kombat. Built with clean OOP principles and dynamic DOM manipulation to ensure modularity and interactivity. | JavaScript, HTML, CSS, OOP |
+| [**Parser && Machine Learning**](https://github.com/nek00oo/IS_ML) | 🔍 Data scraping & model training to classify tanks from tanks.gg, optimized for performance. | Python, Selenium, scikit-learn |
 
 ---
 
