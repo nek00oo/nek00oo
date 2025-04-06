@@ -8,8 +8,9 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nest,html,css,postgres,prisma,docker,linux,bash,git" />
+  <img src="https://skillicons.dev/icons?i=dotnet,java,ts,react,nest,py,html,css,postgres,prisma,docker,linux,bash,git" />
 </p>
+
 
 ---
 
@@ -17,9 +18,9 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Skill-Bridge**](https://github.com/nek00oo/skill-bridge) | 🧩 Authentication system with JWT & secure cookies, built using NestJS and PostgreSQL. | NestJS, Prisma, JWT, PostgreSQL, HBS |
-| **Investment App** | 📱 Android app following MVI architecture to display portfolios and financial performance. | Kotlin, MVI, Jetpack, Coroutines |
-| [**Tanks Parser**](https://github.com/nek00oo/your-parser-link) | 🔍 Data scraping & model training to classify tanks from tanks.gg, optimized for performance. | Python, Selenium, scikit-learn |
+| [**Skill-Bridge**](https://github.com/nek00oo/SkillBridge) | 🧩 This is a website with authentication system with JWT & secure cookies, built using NestJS and PostgreSQL. | NestJS, Prisma, JWT, PostgreSQL, HBS |
+| [**Chirper App**](https://github.com/nek00oo/Chirper) | 📱 Android app following MVI and Сlean architecture to display posts (like a Twitter). | Kotlin, Koin, MVI, Coroutines |
+| [**Parser and Machine Learning**](https://github.com/nek00oo/IS_ML) | 🔍 Data scraping & model training to classify tanks from tanks.gg, optimized for performance. | Python, Selenium, scikit-learn |
 
 ---
 
@@ -44,7 +45,7 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://t.me/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/neko_ky" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:yakovenkovalera2017@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
