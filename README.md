@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Valera</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=14F7FF&center=true&vCenter=true&width=600&lines=Backend+%7C+Frontend+%7C+Dev;Java+%7C+.NET+%7C+PostgreSQL;React+%7C+TypeScript+%7C+NestJS;Building+secure+and+modern+apps;Learning+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=14F7FF&center=true&vCenter=true&width=600&lines=Backend+%7C+Frontend+%7C+Dev;Java+%7C+.NET+%7C+PostgreSQL;React+%7C+TypeScript+%7C+NestJS;" alt="Typing SVG" />
 </p>
 
 ---
