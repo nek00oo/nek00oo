@@ -18,7 +18,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Financial Simulation**](https://github.com/nek00oo/FinanceBusinessSimulationModeling). | 📈 C#-based simulation of company financial flows, including modeling of customer arrivals, revenue variability, employee costs, and probability of order failure. | C#, LINQ, OxyPlot |
+| [**Financial Simulation**](https://github.com/nek00oo/FinanceBusinessSimulationModeling) | 📈 C#-based simulation of company financial flows, including modeling of customer arrivals, revenue variability, employee costs, and probability of order failure. | C#, LINQ, OxyPlot |
 | [**Chirper App**](https://github.com/nek00oo/Chirper) | 📱 Android app following MVI and Сlean architecture to display posts (like a Twitter). | Kotlin, Koin, MVI, Coroutines |
 | [**Skill-Bridge**](https://github.com/nek00oo/SkillBridge) | 🧩 This is a website with authentication system with JWT & secure cookies, built using NestJS and PostgreSQL. | NestJS, Prisma, RESTful API, JWT, PostgreSQL, HBS, LightHouse |
 | [**Api Service**](https://github.com/nek00oo/Java-tech) | 🐾 Microservice for managing pet ownership records with secure authentication, role-based access control, and asynchronous communication via Kafka. Built with Spring Boot and PostgreSQL. | Java, Spring Boot, Spring Security, Kafka, RESTful API |
@@ -34,7 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nek00oo&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nek00oo&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nek00oo&layout=compact&theme=tokyonight&hide_border=true" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nek00oo&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 </div>
 
 ---
